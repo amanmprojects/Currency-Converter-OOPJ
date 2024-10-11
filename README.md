@@ -10,7 +10,7 @@ A simple currency converter application built in Java with a Graphical User Inte
 ## Demo
 ![Currency Converter](currency-converter-demo.gif)
 
-## Proof for you 🤗
+## Proof of work 🤗
 ![Currency Converter](currency-converter-demo.png)
 
 ## Technologies Used
