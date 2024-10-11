@@ -8,8 +8,7 @@ A simple currency converter application built in Java with a Graphical User Inte
 - **Currency Options**: Supports conversion between 20 major global currencies.
 
 ## Demo
-![Currency Converter](currency-converter-demo.png)
-
+![Currency Converter](currency-converter-demo.mp4)
 ## Technologies Used
 - Java
 - Swing (for GUI)
