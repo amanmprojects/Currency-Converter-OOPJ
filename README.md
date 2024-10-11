@@ -9,6 +9,10 @@ A simple currency converter application built in Java with a Graphical User Inte
 
 ## Demo
 ![Currency Converter](currency-converter-demo.gif)
+
+## Proof for you 🤗
+![Currency Converter](currency-converter-demo.png)
+
 ## Technologies Used
 - Java
 - Swing (for GUI)
